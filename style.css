@@ -22,4 +22,5 @@ canvas{
     border-color: white;
     border-width: 5px;
     background-color: white;
+    box-shadow: 5px black;
 }
