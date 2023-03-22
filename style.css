@@ -24,3 +24,6 @@ canvas{
     background-color: white;
     box-shadow: 5px black;
 }
+body{
+    background-position: fixed;
+}
